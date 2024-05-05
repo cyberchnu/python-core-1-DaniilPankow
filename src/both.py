@@ -4,6 +4,3 @@ def both(number1, number2):
     return True
   else:
     return False
-
-
-print(both(0, 2))
